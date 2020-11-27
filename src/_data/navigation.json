@@ -1,19 +1,24 @@
 {
   "items": [
     {
-      "text": "Home",
+      "text": "PrayerMate App",
+      "url": "https://www.prayermate.net/app",
+      "external": true
+    },
+    {
+      "text": "Discipleship Tech",
+      "url": "https://discipleship.tech/",
+      "external": true
+    },
+    {
+      "text": "Blog",
       "url": "/",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "text": "Donate",
+      "url": "https://discipleship.tech/#donate",
       "external": true
-    },
-    {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
     }
   ]
 }
